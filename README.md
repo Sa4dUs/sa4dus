@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Sa4dUs&icon=0&color=0)](https://visitcount.itsvg.in)
 # Hi 👋, I'm Marcelo. Fullstack developer!
 
 # 💫About Me :
@@ -20,14 +19,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306b6d4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Sa4dUs&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sa4dUs&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa4dUs&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sa4dUs&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ---
