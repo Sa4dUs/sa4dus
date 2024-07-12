@@ -1,4 +1,4 @@
-# Hi 👋, I'm Marcelo. Fullstack developer!
+# Hi 👋, I'm Marcelo. Mathematics and Software Engineering student!
 
 # 💫About Me :
 - 🌱 I’m currently learning PHP and Django
