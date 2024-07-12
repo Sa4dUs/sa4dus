@@ -1,7 +1,7 @@
-# Hi 👋, I'm Marcelo. Mathematics and Software Engineering student!
+# Hi 👋, I'm Marcelo. Software Developer!
 
 # 💫About Me :
-- 🌱 I’m currently learning PHP and Django
+- 🌱 I’m currently learning Rust and Go
 - 👨‍💻 All of my projects are available at https://sa4dus.vercel.app
 - 💬 Ask me about MERN stack and competitive programming
 - 📫 How to reach me dmmarcelo27@gmail.com
